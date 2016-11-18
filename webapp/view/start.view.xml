@@ -1,10 +1,6 @@
 <mvc:View xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="PO_UPLOAD.controller.Controller">
 	<App>
-<<<<<<< HEAD
-		<pages><Page title="Bestellungen aus Datei generieren4711">
-=======
-		<pages><Page title="Bestellungen aus Datei generieren....">
->>>>>>> 3b67906ad39b4365f38d3cf454be709d34c5b638
+		<pages><Page title="Bestellungen aus Datei generieren - super saubere Version">
 				<content>
 				    <sap.ui.layout:VerticalLayout xmlns:sap.ui.layout="sap.ui.layout" width="100%" id="__layout1">
 				        <sap.ui.layout:content>
