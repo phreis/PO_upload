@@ -1,0 +1,39 @@
+{
+    "resources": [
+        {
+            "name": "index.html"
+        },
+        {
+            "name": "css/style.css"
+        },
+        {
+            "name": "Component.js"
+        },
+        {
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "model/models.js"
+        },
+        {
+            "name": "view/start.view.xml"
+        },
+        {
+            "name": "controller/Controller.controller.js"
+        },
+        {
+            "name": "manifest.json"
+        },
+        {
+            "name": ".DS_Store"
+        },
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "neo-app.json"
+        }
+    ]
+}
